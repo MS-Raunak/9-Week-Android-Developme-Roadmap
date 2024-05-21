@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">liveData_example</string>
+    <string name="live_data_testing">Live Data Testing!</string>
+    <string name="button">Button</string>
+</resources>

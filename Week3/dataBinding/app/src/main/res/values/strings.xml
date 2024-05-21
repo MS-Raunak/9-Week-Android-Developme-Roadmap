@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dataBinding</string>
+    <string name="quote">worst mornings with cold floors and hot windows and merciless ligh</string>
+    <string name="author">Albert Einstine</string>
+</resources>

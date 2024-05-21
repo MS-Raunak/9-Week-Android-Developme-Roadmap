@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UIThreadOrMainThread</string>
+    <string name="message">Welcome</string>
+    <string name="btnStart">Start</string>
+</resources>
